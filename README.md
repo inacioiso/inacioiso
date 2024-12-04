@@ -1,7 +1,8 @@
 ## Opa!Meu nome é Inácio Sampaio
 
- <div>
-  <a href="https://github.com/inacioiso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
+Sou estudante do Ensino Médio, de turmas ITA/IME. 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="inacio-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
